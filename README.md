@@ -20,8 +20,8 @@ Projeto submetido no Hackaton das Águas.
 
 O software é responsável por receber os dados do banco de dados, e analisar de maneira básica algumas relações de comportamento do sistema, como coorelações entre diferentes resposta de trasdutores de pressão. 
 
-Linguagem: Python
-Sistema Operacional: Ubuntu 16.04 LTS
+	Linguagem: Python
+	Sistema Operacional: Ubuntu 16.04 LTS
 
 BIBLIOTECAS ADICIONAIS:
   - Tkinter
@@ -45,12 +45,13 @@ BIBLIOTECAS ADICIONAIS:
 ### Estrutura de BD
 O banco de dados tem a função básica de obter dados dos sensores. 
 O campo de *tipo* na tabela *sensor* armazena o tipo de sensor e tem sua semântica dada por:
-	- 0 - Pressão	
-	- 1 - Vazão 
-	- 2 - Umidade
+	
+	0 - Pressão	
+	1 - Vazão 
+	2 - Umidade
 	
 ![alt tag](https://cloud.githubusercontent.com/assets/15522193/20866076/fcf410a0-ba01-11e6-9438-97484d89a8e1.png)
 
 ------------------------------------------------------------------------		
 ### O Hardware
-
+O hardaware consiste em um protótipo para coleta de dados, com um microcontrolador atmel na plataforma arduino com um transdutores de pressão conectados em sua porta analógica, juntamente com sensores Higrometro que é capaz de obter o fator de condutância do solo, que é relacionado á umidade do solo. 
