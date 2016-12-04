@@ -45,9 +45,9 @@ BIBLIOTECAS ADICIONAIS:
 ### Estrutura de BD
 O banco de dados tem a função básica de obter dados dos sensores. 
 O campo de *tipo* na tabela *sensor* armazena o tipo de sensor e tem sua semântica dada por:
-	0 - Pressão	
-	1 - Vazão 
-	2 - Umidade
+	- 0 - Pressão	
+	- 1 - Vazão 
+	- 2 - Umidade
 	
 ![alt tag](https://cloud.githubusercontent.com/assets/15522193/20866076/fcf410a0-ba01-11e6-9438-97484d89a8e1.png)
 
