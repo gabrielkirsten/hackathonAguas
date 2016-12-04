@@ -1,5 +1,17 @@
-# hackathonAguas
-Projeto submetido no Hackaton das Águas. 
+# Os Caça Vazamento
+
+Nome do projeto: **Sistema de análise de dados de rede de distribuição de água**
+
+Desafio: **A** 
+
+Participantes:
+
+- Everton Carlos Maciel
+- Gabriel Kirsten Menezes
+- Maria Camila Barbosa Farias
+- Rodrigo Antonio Miranda
+
+Projeto submetido para o Hackaton das Águas 2016. 
 ```
 =======================================================================================================
 			 _                _         _   _                    _                         
