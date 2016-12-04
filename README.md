@@ -1,4 +1,4 @@
-# Os Caça Vazamento
+# Os Caça Vazamentos
 
 Nome do projeto: **Sistema de análise de dados de rede de distribuição de água**
 
@@ -38,6 +38,7 @@ Também foi feita uma análise inicial sobre limiares superiores e inferiores qu
 
 	Linguagem: Python
 	Sistema Operacional: Ubuntu 16.04 LTS
+	Licença: 
 
 BIBLIOTECAS ADICIONAIS:
   - Tkinter
@@ -56,7 +57,7 @@ BIBLIOTECAS ADICIONAIS:
 	|	|-- hackathon.py (codigo em python)
 	|	|-- configBD(example).json (template do arquivo de configuração com o BD)
 	|	|-- README.md (descrição do sistema)
-	
+	|	|-- LICENSE (arquivo de licença)	
 
 ------------------------------------------------------------------------		
 ### Estrutura de BD
