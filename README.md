@@ -24,11 +24,9 @@ Projeto submetido para o Hackaton das Águas 2016.
 	              
 =======================================================================================================	
 ```
-
+O software é responsável por receber os dados do banco de dados, e analisar de maneira básica algumas relações de comportamento do sistema, como coorelações entre diferentes resposta de trasdutores de pressão. 
 ##### Imagem do software: 
 ![alt tag](https://cloud.githubusercontent.com/assets/15522193/20866077/ffcc81e0-ba01-11e6-9f8b-b39d8b02a13e.png)
-
-O software é responsável por receber os dados do banco de dados, e analisar de maneira básica algumas relações de comportamento do sistema, como coorelações entre diferentes resposta de trasdutores de pressão. 
 
 As análise é realizada com a correlação entre sensores da mesma malha. O fator minimo definido é de 97% porém esse fator futuramente poderá ser melhor ajustado dependendo de testes em campo.
 ![alt tag](https://cloud.githubusercontent.com/assets/15522193/20866080/065106f8-ba02-11e6-9158-9d64529a4d09.png)
