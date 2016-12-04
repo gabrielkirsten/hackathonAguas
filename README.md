@@ -38,7 +38,7 @@ Também foi feita uma análise inicial sobre limiares superiores e inferiores qu
 
 	Linguagem: Python
 	Sistema Operacional: Ubuntu 16.04 LTS
-	Licença: 
+	Licença: GNU GENERAL PUBLIC LICENSE v3
 
 BIBLIOTECAS ADICIONAIS:
   - Tkinter
