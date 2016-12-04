@@ -39,7 +39,8 @@ BIBLIOTECAS ADICIONAIS:
 	|-- hackathonAguas
 	|	|-- hackathon.py (codigo em python)
 	|	|-- configBD(example).json (template do arquivo de configuração com o BD)
-
+	|	|-- README.md (descrição do sistema)
+	
 
 ------------------------------------------------------------------------		
 ### Estrutura de BD
