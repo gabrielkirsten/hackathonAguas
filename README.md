@@ -12,6 +12,18 @@ Participantes:
 - Rodrigo Antonio Miranda
 
 Projeto submetido para o Hackaton das Águas 2016. 
+
+	Linguagem: Python sob licença própria (compatível com a GPL).
+	Sistema Operacional: Ubuntu 16.04 LTS.
+	Licença: GNU GENERAL PUBLIC LICENSE v3.
+
+BIBLIOTECAS ADICIONAIS:
+  - Tkinter (Python license)
+  - matplotlib (BSD compatible license)
+  - math (Python license)
+  - psycopg2 (GNU v3)
+  - json (Open Source)
+  - scipy (licensa própria)
 ```
 =======================================================================================================
 			 _                _         _   _                    _                         
@@ -35,20 +47,6 @@ As análise é realizada com a correlação entre sensores da mesma malha. O fat
 Também foi feita uma análise inicial sobre limiares superiores e inferiores que podem ser utilizados futuramente em uma análise sobre um comportamento provável do sistema.
 
 ![alt tag](https://cloud.githubusercontent.com/assets/15522193/20866078/02652e98-ba02-11e6-945f-b2f562f84748.png)
-
-	Linguagem: Python
-	Sistema Operacional: Ubuntu 16.04 LTS
-	Licença: GNU GENERAL PUBLIC LICENSE v3
-
-BIBLIOTECAS ADICIONAIS:
-  - Tkinter
-  - matplotlib
-  - sys
-  - math
-  - psycopg2
-  - json
-  - numpy
-  - scipy
 
 ------------------------------------------------------------------------		
 ### Estrutura de diretórios
