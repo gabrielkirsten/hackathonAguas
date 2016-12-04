@@ -44,6 +44,7 @@ BIBLIOTECAS ADICIONAIS:
 
 ------------------------------------------------------------------------		
 ### Estrutura de BD
+Banco de dados utilizado: Postgresql.
 O banco de dados tem a função básica de obter dados dos sensores. 
 O campo de *tipo* na tabela *sensor* armazena o tipo de sensor e tem sua semântica dada por:
 	
@@ -55,4 +56,4 @@ O campo de *tipo* na tabela *sensor* armazena o tipo de sensor e tem sua semânt
 
 ------------------------------------------------------------------------		
 ### O Hardware
-O hardaware consiste em um protótipo para coleta de dados, com um microcontrolador atmel na plataforma arduino com um transdutores de pressão conectados em sua porta analógica, juntamente com sensores Higrometro que é capaz de obter o fator de condutância do solo, que é relacionado á umidade do solo. 
+O hardaware consiste em um protótipo para coleta de dados, com um microcontrolador atmel na plataforma arduino com um sensores de pressão conectados em sua porta analógica, juntamente com sensores Higrometro que é capaz de obter o fator de condutância do solo, que é relacionado á umidade do solo. 
