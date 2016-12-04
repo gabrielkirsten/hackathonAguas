@@ -19,7 +19,6 @@
 from Tkinter import *                               # biblioteca para interface gráfica
 import matplotlib									# bibliotecas para plot
 from ttk import *									# biblioteca para interface de abas
-import sys
 
 # Configuração necessária para utilização do matplot no Tkinter
 import matplotlib.pyplot as plt						    
@@ -28,7 +27,6 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolb
 from matplotlib.figure import Figure
 
 import psycopg2, json								# biblioteca para conexão com banco de dados, e leitura de arquivos JSON
-import numpy as np									# biblioteca para operações matemáticas
 from scipy.signal import savgol_filter				# biblioteca para aplicação do filtro de Savitzky-Golay
 import math
 
