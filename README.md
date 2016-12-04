@@ -14,7 +14,9 @@ Projeto submetido no Hackaton das Águas.
 ```
 
 ##### Imagem do software: 
-![alt tag]
+![alt tag]https://cloud.githubusercontent.com/assets/15522193/20866077/ffcc81e0-ba01-11e6-9f8b-b39d8b02a13e.png
+![alt tag]https://cloud.githubusercontent.com/assets/15522193/20866080/065106f8-ba02-11e6-9158-9d64529a4d09.png
+![alt tag]https://cloud.githubusercontent.com/assets/15522193/20866078/02652e98-ba02-11e6-945f-b2f562f84748.png
 
 O software é responsável por receber os dados do banco de dados, e analisar de maneira básica algumas relações de comportamento do sistema, como coorelações entre diferentes resposta de trasdutores de pressão. 
 
@@ -47,7 +49,7 @@ O campo de *tipo* na tabela *sensor* armazena o tipo de sensor e tem sua semânt
 	1 - Vazão 
 	2 - Umidade
 	
-![alt tag]
+![alt tag]https://cloud.githubusercontent.com/assets/15522193/20866076/fcf410a0-ba01-11e6-9438-97484d89a8e1.png
 
 ------------------------------------------------------------------------		
 ### O Hardware
